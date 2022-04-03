@@ -1,1 +1,71 @@
-# Prime-Video-00-cloneprimevideo
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto Prime Video</title>
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <header>
+        <div class="center">
+            <div class="header-left">
+                <a href=""><img src="images/Amazon-Prime-Video-Logo.png"></a>
+                <div class="menu-header">
+                <ul>
+                    <li><a href="#topo">Inicio</a></li>
+                    <li><a href="lojas.html">Lojas</a></li>
+                    <li><a href="canais.html">Canais</a></li>
+                    <li><a href="">Categorias</a></li>
+                    <li><a href="minhaarea.html">Minha Area</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="header-rigth">
+            <div class="search">
+                <i class="icon-search"></i>
+                <div class="user">
+                    <i class="icon-user"></i>
+                <div class="name-user">
+                    <p>GABRIEL</p>
+                </div>
+                </div>              
+            </div>
+        </div>
+        <div class="clear"></div>
+            <!--SEÇÃO DESTAQUE-->
+
+        <section class="destaque"> 
+        </section>
+
+        <!--sessao de filmes-->
+            <div class="filmes-destaques">
+                <h2>POPULARES NA NETFLIX</h2>
+            </div>    
+
+            <section class="vitrine">                 
+            <div class="vitrine-flex">       
+           <div class="vitrine-single-banner">
+              <a href=""><div class="vitrine-wraper" style="background-image: url('images/1.jpg');"></div></a>
+           </div>
+           <div class="vitrine-single-banner">
+            <a href=""><div class="vitrine-wraper" style="background-image: url('images/2.jpg');"></div></a>
+         </div>
+         <div class="vitrine-single-banner">
+            <a href=""><div class="vitrine-wraper" style="background-image: url('images/3.jpg');"></div></a>
+         </div>
+         <div class="vitrine-single-banner">
+            <a href=""><div class="vitrine-wraper" style="background-image: url('images/4.jpg');"></div></a>
+         </div>
+        </section>
+        <br>
+
+    </section>
+    <div class="terror">
+        <h3>CONTINUE ASSISTINDO</h3>
+        
+    </header>
+</body>
+</html>
